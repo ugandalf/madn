@@ -1,7 +1,7 @@
 # madn
 Python implementation of a board game "Mensch ärgere Dich nicht" or "Ludo".
 Originally made for a python course at University of Wrocław.
-Uses matplotlib for graphics, pandoc for documentation, UMLet for UML diagrams, unittest for tests.
+Uses matplotlib for graphics, pdoc for documentation, UMLet for UML diagrams, unittest for tests.
 
 Needs some polishing:
 - [ ] Game might be too fast - implement slower mode?
